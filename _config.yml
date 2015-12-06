@@ -1,0 +1,28 @@
+name: Tip Toe Imaging
+favicon: null
+layout_spectrum: 0.6793748186901212
+typography_spectrum: 0.21991086518391967
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5987991334404796
+  lightness: 0.666938517941162
+  saturation: 0.9999066151212901
+  rhythmicContrast: 0.23418201133608818
+purpose: []
