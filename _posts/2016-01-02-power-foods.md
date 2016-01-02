@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-02T05:05:24.937Z'
-dateModified: '2016-01-02T05:05:03.156Z'
+datePublished: '2016-01-02T05:06:37.923Z'
+dateModified: '2016-01-02T05:06:23.893Z'
 title: Power Foods
 author: []
 authors: []
