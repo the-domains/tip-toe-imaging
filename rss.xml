@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tip Toe Imaging - Visual Architecture]]></title>
         <description><![CDATA[Tip Toe Imaging - Visual Architecture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tip-toe-imaging/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 05:03:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 05:05:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tip-toe-imaging/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Power Foods]]></title>
+            <description><![CDATA[<article><h1>Power Foods</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7c01992804bd8278bc7561c4b5b8dbd3c7ae8aa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tip-toe-imaging/power-foods/index.html</link>
+            <guid isPermaLink="false">59a1a6d5-049e-4162-a5ea-d68cf74791c2</guid>
+            <pubDate>Sat, 02 Jan 2016 05:05:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Find Us!]]></title>
             <description><![CDATA[<h1>Find Us!</h1>]]></description>
-            <link>undefinedfind-us/index.html</link>
+            <link>https://thegrid.ai/tip-toe-imaging/find-us/index.html</link>
             <guid isPermaLink="false">29c0d5a6-3598-478b-9e1c-c4ec8fa1fefb</guid>
             <pubDate>Sat, 02 Jan 2016 05:03:41 GMT</pubDate>
         </item>
