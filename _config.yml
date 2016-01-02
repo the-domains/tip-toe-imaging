@@ -1,7 +1,7 @@
 name: Tip Toe Imaging
 favicon: null
-layout_spectrum: 0.50501
-typography_spectrum: 0.98462
+layout_spectrum: 0
+typography_spectrum: 0.50782
 title: Tip Toe Imaging - Visual Architecture
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.625
-  lightness: 0.625
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+    - '#656668'
+    - '#e82725'
+    - '#f6891f'
+    - '#8cbf3e'
+    - '#000000'
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
